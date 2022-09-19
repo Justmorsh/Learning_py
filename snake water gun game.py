@@ -21,6 +21,7 @@ def game(p1, p2):
             return True
 
 
+# eeoeoeec
 randNo = random.randint(1, 3)
 if randNo == 1:
     comp = 's'
